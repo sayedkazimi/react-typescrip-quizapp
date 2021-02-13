@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# REACT QUIZ APP
+
+I used an API for the quiz questions from this [API provider](https://opentdb.com/api_config.php).
+I also used `styled-components` for styling. You can find more info about `styled-components` [here](https://styled-components.com/).
+The goal of this app is to practice React and TypeScript.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## For starter template run the following npm command:
+
+`npx create-react-app app-name --template typescript`
+
+## Open it in VSCode:
+
+`cd app-name | code .`
 
 ## Available Scripts
 

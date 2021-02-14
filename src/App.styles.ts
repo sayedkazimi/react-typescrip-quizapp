@@ -65,4 +65,8 @@ h1 {
 .start {
     max-width: 200px;
 }
+
+.next {
+    margin-bottom: 30px;
+}
 `;
